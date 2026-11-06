@@ -4,9 +4,7 @@
 
 Lettercamp is an open-source framework for creating a beautiful, modern publication for your website. Designed and built for the AI-era, Lettercamp gives you and your team a seamless way to publish content onto your domain. Lettercamp sites are based in static sites based in Markdown and MDX, so you can easily write and publish without needing to maintain a database or complex backend.
 
-Start with the open-source Lettercamp repository to set up a local publication. Write content, customize your site, and build for production all on your terms.
-
-Lettercamp Cloud is our hosted offering for managing and publishing your content directly from the web, without needing to set up a local environment.
+Start with the open-source Lettercamp repository to set up a local publication. Write content, customize your site, and build for production all on your terms. If you prefer a hosted solution, Lettercamp Cloud is our enterprise offering for managing and publishing your content directly from the web, without needing to set up a local environment.
 
 To get started, explore some of the resources below:
 
