@@ -2,8 +2,8 @@
 
 ### The publishing platform for teams and agents
 
-Build a publication with Markdown and MDX, or use Lettercamp Cloud for editing, hosting, and deployment.
+Lettercamp is an open-source framework for creating a beautiful, modern publication for your website.
 
-- **[Lettercamp repository](https://github.com/lettercamp/lettercamp)** — The blog engine, renderer, starter, and CLI. Start here for the code.
+- **[Lettercamp repository](https://github.com/lettercamp/lettercamp)** — The publication engine, renderer, starter, and CLI. Start here for the code.
 - **[Documentation](https://www.lettercamp.com/docs)** — Guides for creating, customizing, and publishing your site.
 - **[Lettercamp Cloud](https://www.lettercamp.com)** — Write, manage, and publish from the web.
